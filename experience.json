@@ -1,0 +1,103 @@
+{
+  "name": "Sean Connole",
+  "contact": {
+    "phone": "480-290-2093",
+    "email": "seanconnole32@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/seancconnole/",
+    "website": "https://nationalvirtualbowlingleague.com"
+  },
+  "professional_experience": [
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "dMetrics",
+      "dates": "Jul 2024 - Present",
+      "location": "Jackson, WY",
+      "responsibilities": [
+        "Deployed secure infrastructure using Terraform and Terragrunt across government and commercial environments",
+        "Worked with Defense Information Systems Agency (DISA) to ensure systems met FEDRAMP compliance standards",
+        "Leveraged Tenable vulnerability scanning tools to identify and remediate risks within DTIC and DISA networks"
+      ]
+    },
+    {
+      "title": "Senior Software Developer",
+      "company": "Nerd United",
+      "dates": "Mar 2023 - Jan 2024",
+      "location": "Lehi, UT",
+      "responsibilities": [
+        "Led backend and infrastructure efforts for real-time systems (WebSocket scaling from 3k -> 300k)",
+        "Developed cross-environment build and deployment tools using AWS SAM CLI, CI/CD, and infrastructure-as-code",
+        "Collaborated with frontend teams to deliver responsive UIs backed by secure API services"
+      ]
+    },
+    {
+      "title": "SRE / Developer Experience Lead",
+      "company": "Atomic Financial",
+      "dates": "Dec 2021 - Feb 2023",
+      "location": "Cottonwood Heights, UT",
+      "responsibilities": [
+        "Oversaw developer experience and backend platform initiatives in a high-regulation financial environment",
+        "Migrated backend services from AWS Lambda to Kubernetes and AWS SQS, improving reliability and observability",
+        "Built secure CI/CD processes with Docker and GitHub Actions, reducing MTTR by up to 90%"
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "company": "Atomic Financial",
+      "dates": "Jul 2021 - Dec 2021",
+      "location": "Cottonwood Heights, UT",
+      "responsibilities": [
+        "Developed backend services for direct deposit switching using Puppeteer and API automation",
+        "Created a real-time notification platform for faster iteration and production visibility",
+        "Setup automated tracking for all user interactions which provided crucial data to train our ML models"
+      ]
+    },
+    {
+      "title": "Full Stack Developer / Team Lead",
+      "company": "DentalQore",
+      "dates": "Feb 2019 - Jul 2021",
+      "location": "Pleasant Grove, UT",
+      "responsibilities": [
+        "Built and maintained C#/.NET applications syncing over 6 million patient records",
+        "Developed secure, RESTful APIs in Laravel/PHP and built frontend forms using a Vue-like JS framework",
+        "Delivered software to over 2,000 clients, including HIPAA-aligned systems for patient data intake"
+      ]
+    },
+    {
+      "title": "Technical Support (Tier 1 & 2)",
+      "company": "DentalQore",
+      "dates": "May 2017 - Feb 2019",
+      "location": "Pleasant Grove, UT",
+      "responsibilities": [
+        "Developed internal tools using SQL and basic C#/PHP to streamline operations",
+        "Trained junior devs and support staff on full-stack topics including HTML/CSS, JavaScript, and PHP"
+      ]
+    }
+  ],
+  "entrepreneurial_experience": {
+    "title": "Founder",
+    "company": "Connole Labs LLC",
+    "dates": "Mar 2025 - Present",
+    "location": "Remote",
+    "responsibilities": [
+      "Built and manage the National Virtual Bowling League using full-stack tools (Laravel + Tailwind + SQLite)",
+      "Designed and deployed secure infrastructure for user registration, payment processing, and league tracking",
+      "Developed internal admin tools, achievement systems, and player dashboards"
+    ]
+  },
+  "education": {
+    "institution": "Brigham Young University – Marriott School of Business",
+    "degree": "Master of Information Systems Management",
+    "graduation_date": "April 2021"
+  },
+  "skills": {
+    "backend": ["C#", "ASP.NET", ".NET Core", "Entity Framework", "PHP (Laravel)", "Python (Django)", "Node.js", "RESTful API design", "Microservices"],
+    "frontend": ["JavaScript (Vue, React, Svelte, Angular)", "TypeScript", "Tailwind", "Bootstrap", "jQuery", "Razor Pages", "MVC Patterns"],
+    "infrastructure_devops": ["Terraform", "Terragrunt", "Helm", "Pulumi", "Docker", "Kubernetes", "AWS SAM CLI", "GitHub Actions", "CI/CD", "Monitoring"],
+    "databases": ["SQL Server", "PostgreSQL", "MySQL", "SQLite", "MongoDB"]
+  },
+  "other": [
+    "Eligible for U.S. Government Contract Work",
+    "Comfortable with documentation-heavy, regulated development workflows",
+    "Experience working with healthcare and financial systems under regulatory scrutiny"
+  ]
+}
