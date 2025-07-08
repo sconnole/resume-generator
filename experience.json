@@ -79,9 +79,9 @@
     "dates": "Mar 2025 - Present",
     "location": "Remote",
     "responsibilities": [
-      "Built and manage the National Virtual Bowling League using full-stack tools (Laravel + Tailwind + SQLite)",
+      "Built and actively manage the National Virtual Bowling League using full-stack tools (Laravel + Tailwind + SQLite)",
       "Designed and deployed secure infrastructure for user registration, payment processing, and league tracking",
-      "Developed internal admin tools, achievement systems, and player dashboards"
+      "Developed internal admin tools and player dashboards"
     ]
   },
   "education": {
