@@ -1,0 +1,119 @@
+{
+  "name": "Sean Connole",
+  "contact": {
+    "phone": "480-290-2093",
+    "email": "seanconnole32@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/seancconnole/",
+    "website": "https://nationalvirtualbowlingleague.com"
+  },
+  "should_add_clearance": true,
+  "professional_experience": [
+    {
+      "title": "Senior Engineer",
+      "company": "dMetrics",
+      "dates": "Jul 2024 - Present",
+      "location": "Jackson, WY - Remote",
+      "responsibilities": [
+        "Worked with DISA to ensure all systems met FEDRAMP compliance standards and DOD IL4 ATO",
+        "Directed enterprise vulnerability management with Tenable Security Center, reduce open findings through resolutions or risk adjustments to achieve FEDRAMP/DOD IL4 compliance"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Nerd United",
+      "dates": "Mar 2023 - Jan 2024",
+      "location": "Lehi, UT",
+      "responsibilities": [
+        "Led roadmap and resource planning for load testing websocket connections from 3k to 300k users using artillery",
+        "Defined technical roadmap and coordinated delivery across backend, frontend, and product stakeholders",
+        "Built CI/CD pipelines and release automation from scratch, reducing deployment times from days or weeks to under 10 minutes and enabling daily production releases"
+      ]
+    },
+    {
+      "title": "Software Developer Team Lead",
+      "company": "Atomic Financial",
+      "dates": "July 2021 - Feb 2023",
+      "location": "Cottonwood Heights, UT",
+      "responsibilities": [
+        "Led SRE team improving developer experience and scaling backend platforms in a regulated fintech environment",
+        "Directed migration of critical services from AWS Lambda and SNS to Kubernetes + AWS SQS",
+        "Held weekly 1:1 meetings with each member of the team.",
+        "Trained and mentored 3 new software developers and helped them grow to the next level with data-driven feedback and action plans"
+      ]
+    },
+    {
+      "title": "Full Stack Developer Team Lead",
+      "company": "DentalQore",
+      "dates": "Feb 2019 - Jul 2021",
+      "location": "Pleasant Grove, UT",
+      "responsibilities": [
+        "Led development of HIPAA-compliant patient data systems supporting over 2,000 healthcare clients",
+        "Managed the full SDLC process for distributed systems to synchronize over 6M patient records",
+        "Supervised junior developers and introduced coding standards, reducing bug backlog by 30%"
+      ]
+    },
+    {
+      "title": "Technical Support",
+      "company": "DentalQore",
+      "dates": "May 2017 - Feb 2019",
+      "location": "Pleasant Grove, UT",
+      "responsibilities": [
+        "Trained and mentored new support staff and entry-level developers, improving onboarding efficiency",
+        "Created internal automation tools (SQL, C#/PHP) that reduced support time"
+      ]
+    }
+  ],
+  "entrepreneurial_experience": {
+    "company": "Connole Labs LLC",
+    "dates": "Mar 2025 - Present",
+    "responsibilities": [
+      "Founded and manage the National Virtual Bowling League, a SaaS platform serving nationwide users",
+      "Built full-stack systems (Laravel + Tailwind + SQLite) for registration, payments, and real-time league tracking"
+    ]
+  },
+  "education": [
+    {
+      "description": "MS, Information Systems and Management, Brigham Young University",
+      "graduation_date": "April 2021"
+    }
+  ],
+  "extracurricular_activities": [
+    {
+      "company": "Head Coach - University Alabama Huntsville - Ultimate Frisbee ",
+      "dates": "July 2025 - Present"
+    },
+    {
+      "company": "Head Coach - Ultimate Frisbee - Birgham Young University",
+      "dates": "June 2024 - May 2025"
+    }
+  ],
+  "skills": {
+    "leadership": [
+      "Agile/Scrum Methodologies",
+      "Mentorship & Career Development",
+      "Cross-functional Collaboration"
+    ],
+    "code": [
+      "PHP (Laravel)",
+      "C#",
+      "Python (Django)",
+      "Node.js",
+      "React",
+      "Vue"
+    ],
+    "infrastructure": [
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "GitHub Actions",
+      "Docker",
+      "CI/CD"
+    ],
+    "interests": [
+      "Ultimate Frisbee",
+      "Reading",
+      "Board Games",
+      "Parenting"
+    ]
+  }
+}
